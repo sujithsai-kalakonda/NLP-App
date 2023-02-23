@@ -326,5 +326,3 @@ class NLPApp:
 
 
 nlp = NLPApp()
-
-# Kantara is a continuation of his engagement with regional content; he has once again experimented with the much-discussed issue of feudalism, environmental protection and forest land encroachment in general. In Kantara, he has turned his focus on folklore and the native cultures including Yakshagana, Paddana, Bhoota Kola, Daivaradhane, Naagaradhane and Kambala. The film also be viewed as a critique of the suffering of the native tribes, who have been subjected to unspeakable atrocities owing to caste hierarchy.
